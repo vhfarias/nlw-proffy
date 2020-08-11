@@ -1,11 +1,11 @@
 
-<img src=".github/logo.svg" style="display: block; margin: auto; background-color: #8257E5; padding: 2rem" alt="Proffy"></img>
-<h2 style="text-align: center">Uma plataforma para combinar professores e alunos</h2>
-<hr>
+<h1 align="center">
+    <img src=".github/logo.svg" alt="Proffy"></img>
+<h3 align="center"><strong>A platform for matching teachers and students online</strong></h3>
 
 ## :mag_right: About
 
-Projeto desenvolvido na **Next Level Week #2**, trilha Discovery, da Rocketseat.
+Project developed during **Next Level Week #2**, Discovery trail, from Rocketseat.
 
 ## :computer: Getting Started
 
@@ -47,4 +47,4 @@ Projeto desenvolvido na **Next Level Week #2**, trilha Discovery, da Rocketseat.
 ## :memo: License
 
 ## :thumbsup: Thanks
-Agradeço à Rocketseat por democratizar o acesso a conteúdo de qualidade
+Thanks to Rocketseat for providing free and quality content.
